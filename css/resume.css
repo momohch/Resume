@@ -40,6 +40,11 @@ h2 {
   font-size: 1.35rem;
 }
 
+.skill{
+  font-family: 'Saira Extra Condensed','微軟正黑體', 'Microsoft JhengHei', serif;
+  font-size: 1.35rem;
+}
+
 .list-social-icons a {
   color: #495057;
 }
